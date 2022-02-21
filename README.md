@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @viniciuszup
+- 👋 Hi, I’m @viniciusfrancazup
 
 <!---
-viniciuszup/viniciuszup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+viniciusfrancazup/viniciusfrancazup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
